@@ -35,8 +35,9 @@ I also enjoy reading history, learning about civilizations and scientific evolut
 
 ### 🐍 Snake Contribution Animation
 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbdullahNadeem10/AbdullahNadeem10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abdullahnadeem10-fast/abdullahnadeem10-fast/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
