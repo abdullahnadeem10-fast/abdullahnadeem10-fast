@@ -27,8 +27,8 @@ I also enjoy reading history, learning about civilizations and scientific evolut
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahNadeem10&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNadeem10&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahnadeem10-fast&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahnadeem10-fast&layout=compact&theme=radical" height="180"/>
 </div>
 
 ---
