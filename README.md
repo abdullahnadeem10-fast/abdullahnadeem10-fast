@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Abdullah Nadeem and I'm a passionate Data Scientist from Pakistan 🇵🇰</h2>
+<h2 align="left">Hi ! My name is Muhammad Abdullah Nadeem and I'm a passionate Data Scientist from Pakistan 🇵🇰</h2>
 
 ---
 
